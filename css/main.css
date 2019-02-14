@@ -1836,7 +1836,8 @@ tbody.collapse.in {
       font-size: 14px;
       padding: 0 5px;
       display: inline-block;
-      border: 1px solid #fff; }
+      border: 1px solid #fff;
+      margin: 3px 4px; }
       .ctn-about p a:hover {
         background: #78F3D8;
         border-color: #78F3D8;
@@ -2616,5 +2617,5 @@ footer {
 }
 
 #sympla-widget-441860 {
-  width: 100% !important;
+  min-width: 100%;
 }
