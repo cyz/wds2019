@@ -1807,6 +1807,10 @@ tbody.collapse.in {
     margin: 0 auto;
     max-width: 100%; }
 
+    .cover canvas {
+      max-width: 100%;
+    }
+
 .ctn-about {
   background: #0D131A;
   color: #fff;
