@@ -1753,12 +1753,18 @@ tbody.collapse.in {
 .cover {
   min-height: 100vh;
   position: relative;
-  background: #0D131A; }
+  top:25px;
+  background-image: url(http://womendevsummit.com/wp-content/uploads/2018/09/logo-women-summit.png);
+  background-color: #0D131A;
+  background-size:contain;
+  background-repeat:no-repeat;
+  background-position:center;
+ }
   .cover .cover__mission {
     margin-top: 80px;
     width: 100%;
     position: absolute;
-    top: 0; }
+    top: 80px; }
   .cover .cover__data {
     font-weight: 800;
     line-height: 48px;
@@ -1771,7 +1777,7 @@ tbody.collapse.in {
     position: relative;
     margin: 10px auto 0;
     z-index: 2;
-    top: 120px; }
+    }
   .cover .cover__name {
     font-style: normal;
     font-weight: 400;
@@ -1780,7 +1786,8 @@ tbody.collapse.in {
     letter-spacing: -2px;
     color: #ffffff;
     text-align: center; }
-  .cover .cover__button {
+
+    .cover .cover__button {
     width: 270px;
     margin: 50px auto 0;
     display: block;
@@ -1792,6 +1799,7 @@ tbody.collapse.in {
     color: #fff;
     font-size: 21px;
     position: relative;
+    top:50px;
     bottom: 170px;
     -webkit-transform: skew(-6deg);
     -ms-transform: skew(-6deg);
