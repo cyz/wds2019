@@ -2093,7 +2093,7 @@ tbody.collapse.in {
 }
 
 .ctn-sponsor {
-  background: #1A1F21;
+  background: #181226;
   color: #fff;
   padding: 70px 0; }
 
@@ -2221,7 +2221,7 @@ footer {
 
 .ctn-speakers {
   padding: 100px 0 60px;
-  background: linear-gradient(135deg, #A166AB 0%, #5073B8 100%); }
+  background: linear-gradient(135deg, #63346d 0%, #231a38 100%); }
 
   .ctn-speakers h2 {
   font-size: 3.5rem;
@@ -2570,7 +2570,7 @@ footer {
 
 .ctn-schedule {
   padding: 70px 0;
-  background: #1A1F21; }
+  background: #181226; }
   .ctn-schedule .table-wrapper {
     overflow: scroll; }
     .ctn-schedule .table-wrapper table {
@@ -2579,7 +2579,7 @@ footer {
       color: #fff;
       font-family: 'Nunito Sans', sans-serif; }
     .ctn-schedule .table-wrapper thead {
-      background: #22292C; }
+      background: #231a38; }
     .ctn-schedule .table-wrapper td, .ctn-schedule .table-wrapper tr, .ctn-schedule .table-wrapper th {
       border: 1px solid #22292C; vertical-align: top;
       padding: 20px; }
