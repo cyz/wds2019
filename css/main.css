@@ -1729,7 +1729,7 @@ tbody.collapse.in {
 .navbar-msbr {
   padding: 10px 0;
   box-shadow: 2px 2px 5px #000;
-  background: #0d131a; }
+  background: #120d1c; }
   .navbar-msbr .cover__brand {
     max-height: 100%;
     max-width: 100%; }
@@ -1756,7 +1756,12 @@ tbody.collapse.in {
 .cover {
   min-height: 100vh;
   position: relative;
-  background-color: #0D131A;
+  background: url(background.jpg) #181226 no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
  }
   .cover .cover__mission {
     margin-top: 80px;
@@ -1816,7 +1821,7 @@ tbody.collapse.in {
   }
 
 .ctn-about {
-  background: #0D131A;
+  background: #181226;
   color: #fff;
   padding: 70px 0; }
   .ctn-about svg {
@@ -1910,7 +1915,7 @@ tbody.collapse.in {
       text-decoration: none; }
 
 .ctn-subscription {
-  background: #232630;
+  background: #252330;
   color: #fff;
   padding: 70px 0; }
   .ctn-subscription h2 {
@@ -1960,7 +1965,7 @@ tbody.collapse.in {
       .ctn-subscription .ctn-subscription__item .buy-btn:hover {
         text-decoration: none;
         background: #7af6dd;
-        color: #0d131a; }
+        color: #181226; }
     .ctn-subscription .ctn-subscription__item .column-title {
       float: left;
       position: relative;
@@ -2009,7 +2014,7 @@ tbody.collapse.in {
   border-right-style: solid;
   min-height: 130px;
   width: 100%;
-  color: #0d131a;
+  color: #181226;
   background: #fff;
   margin-bottom: 15px;
   display: table;
@@ -2139,7 +2144,7 @@ tbody.collapse.in {
     top: 22%; }
 
 footer {
-  background: #0d131a;
+  background: #181226;
   width: 100%;
   clear: both;
   padding: 35px 0;
@@ -2430,8 +2435,8 @@ footer {
   text-transform: uppercase; }
 
 .modal-spe .modal-header .btn:hover {
-  background: #0d131a;
-  border-color: #0d131a;
+  background: #181226;
+  border-color: #181226;
   color: #fff; }
 
 .btn-group-vertical > .btn-group:after,
@@ -2599,7 +2604,7 @@ footer {
 
 .ct-sponsor--i {
   background: #fff;
-  color: #0d131a; }
+  color: #181226; }
 
 .ctn-faqp {
   padding: 80px 0; }
