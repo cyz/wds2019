@@ -2281,8 +2281,22 @@ footer {
       text-decoration: none; }
 
 .ctn-speakers {
-  padding: 100px 0 60px;
-  background: linear-gradient(135deg, #63346d 0%, #231a38 100%); }
+  padding:100px 0 60px;
+  background: linear-gradient(135deg, #523b9b 0%, #201735 100%); }
+
+  .ctn-speakers .btn-footer {
+    background: #7af6dd;
+    color: #000;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 800;
+    display: table;
+    width: auto;
+    padding: 15px;
+    margin-bottom: 10px; }
+    .ctn-speakers .btn-footer:hover {
+      background: #fff;
+      color: #523b9b; 
+      text-decoration: none;}
 
   .ctn-speakers h2 {
   font-size: 3.5rem;
