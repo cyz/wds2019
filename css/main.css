@@ -1097,12 +1097,12 @@ textarea {
   line-height: inherit; }
 
 a {
-  color: #337ab7;
+  color: #E64182;
   text-decoration: none; }
 
 a:focus,
 a:hover {
-  color: #23527c;
+  color: #9b2855;
   text-decoration: underline; }
 
 a:focus {
@@ -1646,7 +1646,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover {
 .nav .open > a:focus,
 .nav .open > a:hover {
   background-color: #eee;
-  border-color: #337ab7; }
+  border-color: #E64182; }
 
 .nav .nav-divider {
   height: 1px;
@@ -2144,7 +2144,7 @@ tbody.collapse.in {
     top: 22%; }
 
 footer {
-  background: #181226;
+  background: #120d1c;
   width: 100%;
   clear: both;
   padding: 35px 0;
@@ -2575,13 +2575,13 @@ footer {
     overflow: scroll; }
     .ctn-schedule .table-wrapper table {
       width: 100%;
-      border: 1px solid #22292C;
+      border: 1px solid #fff;
       color: #fff;
       font-family: 'Nunito Sans', sans-serif; }
     .ctn-schedule .table-wrapper thead {
       background: #231a38; }
     .ctn-schedule .table-wrapper td, .ctn-schedule .table-wrapper tr, .ctn-schedule .table-wrapper th {
-      border: 1px solid #22292C; vertical-align: top;
+      border: 1px solid #fff; vertical-align: top;
       padding: 20px; }
     .ctn-schedule .table-wrapper td:first-child {
       text-align: center; }
