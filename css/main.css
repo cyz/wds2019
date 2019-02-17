@@ -1746,7 +1746,7 @@ tbody.collapse.in {
       display: inline-block; }
     .navbar-msbr .navbar-nav__link:hover {
       background: none;
-      color: #7af6dd; }
+      color: #ef4a8b; }
   .navbar-msbr .nav-insc {
     background: #fa6565;
     color: #fff; }
@@ -1773,9 +1773,9 @@ tbody.collapse.in {
     line-height: 48px;
     font-size: 1.7rem;
     letter-spacing: -1px;
-    color: #25274C;
+    color: #fff;
     text-align: center;
-    background: #7af6dd;
+    background: #ef4a8b;
     width: 320px;
     position: relative;
     margin: 0px auto 0px;
@@ -1853,8 +1853,8 @@ tbody.collapse.in {
       border: 1px solid #fff;
       margin: 3px 4px; }
       .ctn-about p a:hover {
-        background: #78F3D8;
-        border-color: #78F3D8;
+        background: #ef4a8b;
+        border-color: #ef4a8b;
         color: #000;
         text-decoration: none; }
   .ctn-about #ctn-about__image img {
@@ -1906,8 +1906,8 @@ tbody.collapse.in {
       border: 1px solid #fff;
       margin: 3px 4px; }
       .ctn-coletivo p a:hover {
-        background: #78F3D8;
-        border-color: #78F3D8;
+        background: #ef4a8b;
+        border-color: #ef4a8b;
         color: #000;
         text-decoration: none; }
   .ctn-coletivo #ctn-coletivo__image img {
@@ -1967,7 +1967,7 @@ tbody.collapse.in {
     padding-top: 15px;
     padding-bottom: 15px; }
     .ctn-content a:hover {
-      background: #7af6dd;
+      background: #ef4a8b;
       color: #000;
       text-decoration: none; }
 
@@ -2001,7 +2001,7 @@ tbody.collapse.in {
         display: block;
         position: relative;
         margin: 0 auto;
-        background-color: #78F3D8;
+        background-color: #ef4a8b;
         bottom: -20px; }
   .ctn-subscription .ctn-subscription__item {
     background: #fff;
@@ -2026,7 +2026,7 @@ tbody.collapse.in {
       font-size: 20px; }
       .ctn-subscription .ctn-subscription__item .buy-btn:hover {
         text-decoration: none;
-        background: #7af6dd;
+        background: #ef4a8b;
         color: #181226; }
     .ctn-subscription .ctn-subscription__item .column-title {
       float: left;
@@ -2058,8 +2058,8 @@ tbody.collapse.in {
       font-family: monospace;
       font-size: 1.3rem; }
   .ctn-btn-subscription.btn-footer {
-    background: #7af6dd;
-    color: #000;
+    background: #ef4a8b;
+    color: #fff;
     font-family: 'Nunito Sans', sans-serif;
     font-weight: 800;
     display: table;
@@ -2068,7 +2068,7 @@ tbody.collapse.in {
     margin-bottom: 20px; }
     .ctn-btn-subscription.btn-footer:hover {
       background: #000;
-      color: #7af6dd; }
+      color: #ef4a8b; }
 
 .support-attendee__item {
   border-right-width: 2px;
@@ -2116,7 +2116,7 @@ tbody.collapse.in {
   .support-attendee__item-link:not(a) {
     color: #7c7e80; }
   .support-attendee__item-link:hover {
-    color: #7af6dd; }
+    color: #ef4a8b; }
   .support-attendee__item-link i {
     color: #720098;
     font-size: 18px;
@@ -2144,7 +2144,7 @@ tbody.collapse.in {
     font-family: 'Nunito Sans', sans-serif;
     font-weight: 400; }
   .container-fluid--social a:hover h2 {
-    color: #7af6dd; }
+    color: #ef4a8b; }
 
 @media screen and (max-width: 600px) {
   .container-fluid--social img {
@@ -2164,14 +2164,28 @@ tbody.collapse.in {
     font-family: 'Fira Sans', sans-serif;
     /*text-transform: uppercase;*/
     font-weight: bolder;
-    display: block; }
+    display: block;}
+    .ctn-sponsor h2 strong {
+      display: block;
+      font-size: 1.8rem;
+      margin-top: 10px;
+      font-weight: 400; }
+      .ctn-sponsor h2 strong:after {
+        content: '';
+        width: 75px;
+        height: 2px;
+        display: block;
+        position: relative;
+        margin: 0 auto;
+        background-color: #ef4a8b;
+        bottom: -20px; }
   .ctn-sponsor p {
     font-family: 'Nunito Sans', sans-serif;
     margin-bottom: 30px; 
     font-size:17px;}
   
   .ctn-sponsor p strong a {
-      color: #7af6dd; }
+      color: #ef4a8b; }
 
   .ctn-sponsor h3 {
     font-size: 2rem;
@@ -2221,7 +2235,7 @@ footer {
     font-size: 20px;
     padding: 5px; }
     footer a:hover {
-      color: #7af6dd; }
+      color: #ef4a8b; }
 
 .ctn-place {
   padding: 70px 0; }
@@ -2286,8 +2300,8 @@ footer {
   background: linear-gradient(135deg, #523b9b 0%, #201735 100%); }
 
   .ctn-speakers .btn-footer {
-    background: #7af6dd;
-    color: #000;
+    background: #ef4a8b;
+    color: #fff;
     font-family: 'Nunito Sans', sans-serif;
     font-weight: 800;
     display: table;
@@ -2297,7 +2311,7 @@ footer {
     margin-bottom: 10px; }
     .ctn-speakers .btn-footer:hover {
       background: #fff;
-      color: #523b9b; 
+      color: #ef4a8b; 
       text-decoration: none;}
 
   .ctn-speakers h2 {
@@ -2321,7 +2335,7 @@ footer {
         position: relative;
         margin: 0 auto;
         bottom: -20px;
-        background-color: #7af6dd; }
+        background-color: #ef4a8b; }
 
 .ctn-speakers__item .speaker-preview__image {
   position: relative;
