@@ -1826,7 +1826,7 @@ tbody.collapse.in {
     font-weight: bolder;
     line-height: 40px;
     margin-bottom: 25px;
-    font-family: Fira Sans, sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     margin-left: 30px; }
   .ctn-about p {
     font-family: 'Nunito Sans', sans-serif;
@@ -2081,22 +2081,28 @@ tbody.collapse.in {
     height: 40px; }
 
   .ctn-supporting .support-attendee__item {
-    border: none; } }
+    border: none; } 
+}
+
 .ctn-sponsor {
   background: #1A1F21;
   color: #fff;
   padding: 70px 0; }
+
   .ctn-sponsor h2 {
     font-size: 3.5rem;
-    font-family: 'Nunito Sans', sans-serif;
-    text-transform: uppercase;
+    font-family: 'Fira Sans', sans-serif;
+    /*text-transform: uppercase;*/
     font-weight: bolder;
     display: block; }
   .ctn-sponsor p {
     font-family: 'Nunito Sans', sans-serif;
-    margin-bottom: 30px; }
-    .ctn-sponsor p strong a {
+    margin-bottom: 30px; 
+    font-size:17px;}
+  
+  .ctn-sponsor p strong a {
       color: #7af6dd; }
+
   .ctn-sponsor h3 {
     font-size: 2rem;
     font-family: 'Nunito Sans', sans-serif;
@@ -2176,7 +2182,7 @@ footer {
       left: 0px;
       background-color: #25274C; }
   .ctn-place p {
-    font-size: 15px;
+    font-size: 17px;
     font-family: 'Fira Sans', sans-serif;
     font-weight: 200;
     margin: 25px 50px 25px 0;
