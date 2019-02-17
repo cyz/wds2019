@@ -1915,7 +1915,11 @@ tbody.collapse.in {
       text-decoration: none; }
 
 .ctn-subscription {
-  background: #252330;
+  background: url(../img/sponsor/wds2.jpg) #252330 no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   color: #fff;
   padding: 70px 0; }
   .ctn-subscription h2 {
