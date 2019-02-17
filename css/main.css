@@ -1802,7 +1802,7 @@ tbody.collapse.in {
     color: #fff;
     font-size: 21px;
     position: relative;
-    top:100px;
+    top:-250px;
     bottom: 170px;
     -webkit-transform: skew(-6deg);
     -ms-transform: skew(-6deg);
@@ -2733,4 +2733,8 @@ footer {
 
 #sympla-widget-441860 {
   min-width: 100%;
+}
+
+#space{
+  max-width: 100%;
 }
