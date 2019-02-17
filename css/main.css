@@ -2214,13 +2214,14 @@ footer {
 .ctn-speakers {
   padding: 100px 0 60px;
   background: linear-gradient(135deg, #A166AB 0%, #5073B8 100%); }
+
   .ctn-speakers h2 {
-    font-size: 3.5rem;
-    font-family: 'Nunito Sans', sans-serif;
-    color: #fff;
-    margin: 0 0 65px 0;
-    display: block;
-    padding: 15px 0;
+  font-size: 3.5rem;
+  font-family: 'Fira Sans', sans-serif;
+  color: #fff;
+  margin: 0 0 65px 0;
+  display: block;
+  padding: 15px 0;
     position: relative; }
     .ctn-speakers h2 strong {
       display: block;
@@ -2586,7 +2587,7 @@ footer {
     color: #ccc; }
   .ctn-schedule h2 {
     font-size: 3.5rem;
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     color: #fff;
     margin: 0 0 25px 0;
     display: block;
