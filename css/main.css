@@ -1807,7 +1807,8 @@ tbody.collapse.in {
     -webkit-transform: skew(-6deg);
     -ms-transform: skew(-6deg);
     transform: skew(-6deg);
-    box-shadow: 4px 3px #fff; }
+    box-shadow: 4px 3px #fff;
+    text-decoration: none; }
     .cover .cover__button:hover {
       text-decoration: none;
       background: #fff;
@@ -2292,6 +2293,7 @@ footer {
     display: table;
     width: auto;
     padding: 15px;
+    text-decoration: none;
     margin-bottom: 10px; }
     .ctn-speakers .btn-footer:hover {
       background: #fff;
