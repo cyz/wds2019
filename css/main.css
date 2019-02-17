@@ -1077,7 +1077,10 @@ th {
 
 html {
   font-size: 10px;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: transparent;
+  scroll-behavior: smooth;
+
+}
 
 body {
   font-size: 14px;
