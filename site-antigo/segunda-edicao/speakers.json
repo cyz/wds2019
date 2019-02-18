@@ -1,0 +1,164 @@
+[
+  {
+     "picture":"carolina.jpg",
+     "name":"Carolina Pascale Campos",
+     "bio":"Desenvolvedora web na Codeminer 42. Organizadora do Rails Girls Sorocaba.",
+     "twitter":"https://twitter.com/CarolinaPascale",
+     "facebook":"https://www.facebook.com/carolina.pascalecampos",
+     "github":"https://github.com/CarolPC",
+     "linkedin": ""
+  },
+  {
+    "picture":"12.jpg",
+    "name":"Danielle Monteiro",
+    "bio":"Sou mestre em Engenharia da Computação (IPT-USP) e pós graduada em Engenharia de Negócios (Centro Paula Souza)",
+    "twitter":"http://twitter.com/DaniMonteiroDBA",
+    "facebook":"https://www.facebook.com/DB4Beginners",
+    "github":"",
+    "linkedin": "http://www.linkedin.com/in/DaniMonteiroDBA"
+  },
+  {
+    "picture":"13.jpg",
+    "name":"Charlotte Lorelei Oliveira",
+    "bio":"Desenvolvedora de software evangelista de Erlang, entusiasta de programação funcional e desenvolvimento web",
+    "twitter":"https://twitter.com/umaMaisTempo",
+    "facebook":"",
+    "github":"",
+    "linkedin": "https://www.linkedin.com/in/umamaistempo"
+  },
+  {
+     "picture":"02.jpg",
+     "name":"Jullia Saad",
+     "bio":"Front-end, estudante de ADS na Fatec e organizadora do Rails Girls Sorocaba.",
+     "twitter":"https://twitter.com/julliasaad",
+     "facebook":"https://www.facebook.com/julliasaad",
+     "github":"https://github.com/julliasaad",
+     "linkedin": ""
+  },
+  {
+     "picture":"03.jpg",
+     "name":"Maria Clara",
+     "bio":"Full Stack, atua em projetos de startups no BR e USA e entusiasta de comunidades.",
+     "twitter":"https://twitter.com/olarclara",
+     "facebook":"",
+     "github":"https://github.com/olarclara",
+     "linkedin": ""
+  },
+  {
+     "picture":"04.jpg",
+     "name":"Laís Lima",
+     "bio":"Estudante de ADS, Front-end, formada em Comunicação Visual e entusiasta de comunidades.",
+     "twitter":"https://twitter.com/lalizita98",
+     "facebook":"https://www.facebook.com/lalizita98",
+     "github":"",
+     "linkedin": ""
+  },
+  {
+    "picture":"08.jpg",
+    "name":"Tais Reis Duarte",
+    "bio":"Full Stack, evangelista PHPWomenBR e apaixonada por tudo que envolve o desenvolvimento web.",
+    "twitter":"http://twitter.com/taisreis67",
+    "facebook":"http://facebook.com/taisreis67",
+    "github":"http://github.com/taisreis67",
+    "linkedin": ""
+  },
+  {
+     "picture":"05.jpg",
+     "name":"Thaissa Bueno Sanches",
+     "bio":".NET Developer, é especialista em C# para web e mobile. Formada em Redes de Computadores.",
+     "twitter":"",
+     "facebook":"https://www.facebook.com/thayssa.sanchess",
+     "github":"https://github.com/thayssa1186",
+     "linkedin": ""
+  },
+  {
+     "picture":"ariana.jpg",
+     "name":"Ariana Kataoka",
+     "bio":"Back-end, especialista em PHP e membro do PHPSP e PHPWomenBR",
+     "twitter":"https://twitter.com/ariskataoka",
+     "facebook":"https://www.facebook.com/ariskataoka/",
+     "github":"https://github.com/ariskataoka",
+     "linkedin": ""
+  },
+  {
+     "picture":"cynthia.jpg",
+     "name":"Cynthia Zanoni",
+     "bio":"Full Stack Developer e líder do WoMakersCode.org e Mobile Brasil",
+     "twitter":"https://twitter.com/cynthiazanoni",
+     "facebook":"https://www.facebook.com/cynzanoni/",
+     "github":"https://github.com/cyz",
+     "linkedin": ""
+  },
+  {
+     "picture":"andrielle.jpg",
+     "name":"Andrielle Azevedo de Paula",
+     "bio":"Consultora, formada em SI e Líder das regiões Sul e Sudeste da ONG MTAC",
+     "twitter":"",
+     "facebook":"",
+     "github":"",
+     "linkedin": "https://www.linkedin.com/in/andrielleazevedo"
+  },
+  {
+     "picture":"06.jpg",
+     "name":"Daniele Lopes Bonilha",
+     "bio":"Analista Digital em Mobility e graduada em ADS pela Fatec",
+     "twitter":"",
+     "facebook":"https://www.facebook.com/D.Bonilha",
+     "github":"",
+     "linkedin": ""
+  },
+  {
+     "picture":"07.png",
+     "name":"Diana Ungaro Arnos",
+     "bio":"Web dev, evangelista PHPWomenBR e apaixonada por Agile e qualidade de código.",
+     "twitter":"http://twitter.com/dianaarnos",
+     "facebook":"http://facebook.com/dianaarnos",
+     "github":"http://github.com/dianaarnos",
+     "linkedin": ""
+  },
+  {
+    "picture":"10.jpg",
+    "name":"Patricia Luz Bastos",
+    "bio":"Cientista da Computação pela Puc Poços de Caldas e especialista em Engenharia de Software pela Unicamp",
+    "twitter":"http://twitter.com/patricialuzbast",
+    "facebook":"https://www.facebook.com/paty.bastos.5",
+    "github":"http://github.com/patybastos",
+    "linkedin": "https://www.linkedin.com/in/patricia-bastos-530ab16a/"
+  },
+  {
+    "picture":"11.jpg",
+    "name":"Flávia Fortes",
+    "bio":"Desenvolvedora de software há 7 anos, formada em Análise e Desenvolvimento de Sistemas pela FAETERJ-Rio",
+    "twitter":"",
+    "facebook":"",
+    "github":"",
+    "linkedin": ""
+  },
+  {
+    "picture":"Cat.jpg",
+    "name":"Caterine Barbosa",
+    "bio":"Estudante de Ciências da Computação e estagiária na área de Power BI.",
+    "twitter":"",
+    "facebook":"",
+    "github":"",
+    "linkedin": ""
+  },
+  {
+    "picture":"gab.jpg",
+    "name":"Gabriela Duque",
+    "bio":"Formada em Ciências da Computação, trabalha como consultora e é entusiasta de comunidades",
+    "twitter":"",
+    "facebook":"",
+    "github":"",
+    "linkedin": ""
+  },
+  {
+    "picture":"camilasilva.jpg",
+    "name":"Camila M. P. Silva",
+    "bio":"Agile Coach no Magazine Luiza, formada em ADS, Gestão de Pessoas, CSP, SAFe, PNL Practitioner, + de 10 anos de experiência em qualidade de SW",
+    "twitter":"",
+    "facebook":"https://www.facebook.com/camila.demauro",
+    "github":"",
+    "linkedin": "https://www.linkedin.com/in/camila-de-mauro-418a3b2b/"
+  }
+]
