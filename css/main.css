@@ -1756,7 +1756,7 @@ tbody.collapse.in {
 .cover {
   min-height: 100vh;
   position: relative;
-  background: url(background.jpg) #181226 no-repeat center center fixed; 
+  background: #181226 no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
