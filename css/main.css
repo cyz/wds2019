@@ -3557,3 +3557,9 @@ footer a:hover {
   line-height: 40px;
   font-size: 2rem;
 }
+
+@media (max-width: 480px) and (min-width: 320px) {
+  .brand-cover {
+    display: none;
+  }
+}
